@@ -1,0 +1,58 @@
+[
+    {
+      "city": "New York",
+      "attractions": [
+        "Statue of Liberty",
+        "Empire State Building",
+        "Central Park"
+      ]
+    },
+    {
+      "city": "Paris",
+      "attractions": ["Eiffel Tower", "Louvre Museum", "Notre-Dame Cathedral"]
+    },
+    {
+      "city": "Tokyo",
+      "attractions": ["Tokyo Tower", "Shibuya Crossing", "Asakusa Temple"]
+    },
+    {
+      "city": "London",
+      "attractions": ["Big Ben", "Buckingham Palace", "The British Museum"]
+    },
+    {
+      "city": "Rome",
+      "attractions": ["Colosseum", "Vatican City", "Trevi Fountain"]
+    },
+    {
+      "city": "Barcelona",
+      "attractions": ["Sagrada Familia", "Park Güell", "La Rambla"]
+    },
+    {
+      "city": "Sydney",
+      "attractions": ["Sydney Opera House", "Harbour Bridge", "Bondi Beach"]
+    },
+    {
+      "city": "Rio de Janeiro",
+      "attractions": [
+        "Christ the Redeemer",
+        "Sugarloaf Mountain",
+        "Copacabana Beach"
+      ]
+    },
+    {
+      "city": "Dubai",
+      "attractions": ["Burj Khalifa", "Dubai Mall", "Palm Jumeirah"]
+    },
+    {
+      "city": "Los Angeles",
+      "attractions": ["Hollywood Sign", "Santa Monica Pier", "Getty Center"]
+    },
+    {
+      "city": "Cairo",
+      "attractions": ["Pyramids of Giza", "Egyptian Museum", "Khan El Khalili"]
+    },
+    {
+      "city": "Berlin",
+      "attractions": ["Brandenburg Gate", "Berlin Wall", "Museum Island"]
+    }
+  ]
